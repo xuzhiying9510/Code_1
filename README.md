@@ -20,3 +20,7 @@ attackLog3:
 for every corresponding IP:
 [time][neighbors]
 1-attack 0-no
+
+statistics:
+percentage of attack from edge level and node level
+degree distribution
